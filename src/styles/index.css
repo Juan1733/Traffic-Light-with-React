@@ -10,3 +10,33 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#top-stick {
+    background-color: black;
+    width: 1rem;
+    height: 8rem;
+    margin: 0 auto;
+}
+#container {
+    background-color: black;
+    width: 10rem;
+    margin: 0 auto;
+    border-radius: 1rem;
+}
+.light{
+    width: 7rem;
+    height: 7rem;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.selected{
+    box-shadow: 0px 5px 75px 7px #FDFFB5;
+}
